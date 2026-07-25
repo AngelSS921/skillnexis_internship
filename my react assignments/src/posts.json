@@ -1,0 +1,6 @@
+[
+  { "id": 1, "title": "Getting Started with React", "category": "Tech", "summary": "Learn the basics of components and props." },
+  { "id": 2, "title": "CSS Grid vs Flexbox", "category": "Design", "summary": "Understanding modern layout options in layout design." },
+  { "id": 3, "title": "Mastering JavaScript Async", "category": "Tech", "summary": "Deep dive into Promises and Async/Await cycles." },
+  { "id": 4, "title": "Designing Better UX", "category": "Design", "summary": "Tips for crafting cleaner interfaces." }
+]
